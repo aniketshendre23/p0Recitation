@@ -1,1 +1,1 @@
-select * grom pg.aggregate;
+select * from pg.aggregate;
